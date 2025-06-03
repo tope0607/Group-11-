@@ -40,3 +40,4 @@ If you get Gmail authentication errors, check your App Password setup:
 https://support.google.com/mail/?p=BadCredentials
 ## Contributors
 Raeedah - https://github.com/Esme-raida
+Agoro Temitope - https://github.com/tope0607
